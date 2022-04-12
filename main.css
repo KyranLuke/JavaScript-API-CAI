@@ -1,0 +1,25 @@
+body {
+    background: rgb(255,0,0);
+    background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(210,56,0,1) 76%);
+  }
+  
+  img {
+    width: 25%;
+    height: 25%;
+    display: block;
+  }
+  
+  #art {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+  }
+  
+  #description {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+  }
